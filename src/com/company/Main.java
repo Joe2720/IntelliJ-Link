@@ -8,5 +8,7 @@ public class Main {
         Regnemaskine minRegn = new Regnemaskine();
 
         System.out.println(minRegn.cylinder(2,2));
+
+        System.out.println("Nye ændringer");
     }
 }
